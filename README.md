@@ -2,10 +2,10 @@
 
 > Console-based banking system built with vanilla Java, intentionally developed without external libraries as a learning project focused on Java fundamentals and practical Object-Oriented Programming
 
-![Java](https://img.shields.io/badge/Java-21-orange?style=flat-square&logo=openjdk)
+![Java](https://img.shields.io/badge/Java-25-orange?style=flat-square&logo=openjdk)
 ![Console](https://img.shields.io/badge/Interface-Console-blue?style=flat-square)
-![OOP](https://img.shields.io/badge/Paradigma-POO-green?style=flat-square)
-![No frameworks](https://img.shields.io/badge/Frameworks-Nenhum-lightgrey?style=flat-square)
+![OOP](https://img.shields.io/badge/Paradigm-POO-green?style=flat-square)
+![No frameworks](https://img.shields.io/badge/Frameworks-None-lightgrey?style=flat-square)
 
 ---
 
